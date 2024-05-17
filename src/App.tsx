@@ -1,21 +1,28 @@
 import React from 'react';
+import { Outlet } from 'react-router-dom';
 import './App.scss';
-
-interface Props {
-  onClick: () => void;
-  children: React.ReactNode;
-}
-
-export const Provider: React.FC<Props> = React.memo(({ onClick, children }) => (
-  <button type="button" onClick={onClick}>
-    {children}
-  </button>
-));
+import Header from './components/Header/Header';
+import Footer from './components/Footer/Footer';
+import NavMobile from './components/NavMobile/NavMobile';
+import { useProduct } from './store/Store';
 
 export const App: React.FC = () => {
+  const { isOpen } = useProduct();
+
+  if (isOpen) {
+    document.body.style.overflow = 'hidden';
+  } else {
+    document.body.style.overflow = '';
+  }
+
   return (
-    <div className="starter">
-      <Provider onClick={() => ({})}>TodoList</Provider>
+    <div className="App">
+      <Header />
+      <NavMobile />
+
+      <Outlet />
+
+      <Footer />
     </div>
   );
 };
