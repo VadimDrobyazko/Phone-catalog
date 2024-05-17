@@ -29,4 +29,3 @@ export const colorMap: ColorMap = {
   midnight: '#1D242D',
   sierrablue: '#5770d1',
 };
-
