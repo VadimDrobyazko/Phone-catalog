@@ -17,6 +17,15 @@ React / TypeScript / API / Router.
 
 [DEMO_LINK](https://vadimdrobyazko.github.io/Phone-catalog/)
 
+Instructions - 
+1.[CLONE_REPO](https://docs.github.com/ru/repositories/creating-and-managing-repositories/cloning-a-repository)
+2.Run npm install.
+3.Run npm start.
+
+
+
+
+
 
 
 
