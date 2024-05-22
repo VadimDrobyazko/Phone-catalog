@@ -1,9 +1,22 @@
-# React TypeScript Starter Pack
+[DEMO-LINK]
 
-To use this template click `Use this template`
+Description:
+The "Phone Catalog" project is an e-commerce app for displaying and managing a list of devices from the server. Key features include:
 
-### Available Scripts
+Device Display: Shows products by category (phones, tablets, accessories).
+Swiper: Allows easy scrolling through products.
+Pagination and Sorting: Users sort products and navigate pages.
+Cart: Add, adjust quantity, and remove items. State saved locally.
+Favorites: Add/remove products to favorites. State saved locally.
+Additional Pages: Detailed product info, error handling.
+These features offer users an intuitive interface for efficient product browsing and management.
 
-`Deploy` - available to deploy your application to gh-pages
+Technologies:
+React / TypeScript / API.
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+Link to Layout:
+https://www.figma.com/design/xMK2Dy0mfBbJJSNctmOuLW/Phone-catalog-(V2)-Rounded-Style-1?node-id=0-1&t=hjfJbB0BMTGlDjFU-0
+
+
+
+
