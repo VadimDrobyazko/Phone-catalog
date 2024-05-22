@@ -11,7 +11,7 @@ Additional Pages: Detailed product info, error handling.
 These features offer users an intuitive interface for efficient product browsing and management.
 
 Technologies:
-React / TypeScript / API.
+React / TypeScript / API / Router.
 
 [LAYOUR_LINK](https://www.figma.com/design/xMK2Dy0mfBbJJSNctmOuLW/Phone-catalog-(V2)-Rounded-Style-1?node-id=0-1&t=hjfJbB0BMTGlDjFU-0)
 
