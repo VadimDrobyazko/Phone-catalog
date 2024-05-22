@@ -18,11 +18,11 @@ Technologies
 
 Instructions - 
 
-1. [CLONE_REPO](https://docs.github.com/ru/repositories/creating-and-managing-repositories/cloning-a-repository)
+- [CLONE_REPO](https://docs.github.com/ru/repositories/creating-and-managing-repositories/cloning-a-repository)
 
-2. Run npm install.
+- Run npm install.
 
-3. Run npm start.
+- Run npm start.
 
 
 
