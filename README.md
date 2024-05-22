@@ -13,8 +13,10 @@ These features offer users an intuitive interface for efficient product browsing
 Technologies:
 React / TypeScript / API.
 
-Link to Layout:
-https://www.figma.com/design/xMK2Dy0mfBbJJSNctmOuLW/Phone-catalog-(V2)-Rounded-Style-1?node-id=0-1&t=hjfJbB0BMTGlDjFU-0
+[LAYOUR_LINK](https://www.figma.com/design/xMK2Dy0mfBbJJSNctmOuLW/Phone-catalog-(V2)-Rounded-Style-1?node-id=0-1&t=hjfJbB0BMTGlDjFU-0)
+
+[DEMO_LINK](https://vadimdrobyazko.github.io/Phone-catalog/)
+
 
 
 
