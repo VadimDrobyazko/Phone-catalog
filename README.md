@@ -13,17 +13,17 @@ These features offer users an intuitive interface for efficient product browsing
 Technologies:
 React / TypeScript / API / Router.
 
-[LAYOUR_LINK](https://www.figma.com/design/xMK2Dy0mfBbJJSNctmOuLW/Phone-catalog-(V2)-Rounded-Style-1?node-id=0-1&t=hjfJbB0BMTGlDjFU-0)
+[FIGMA_DESIGN](https://www.figma.com/design/xMK2Dy0mfBbJJSNctmOuLW/Phone-catalog-(V2)-Rounded-Style-1?node-id=0-1&t=hjfJbB0BMTGlDjFU-0)
 
 [DEMO_LINK](https://vadimdrobyazko.github.io/Phone-catalog/)
 
 Instructions - 
 
-1.[CLONE_REPO](https://docs.github.com/ru/repositories/creating-and-managing-repositories/cloning-a-repository)
+1. [CLONE_REPO](https://docs.github.com/ru/repositories/creating-and-managing-repositories/cloning-a-repository)
 
-2.Run npm install.
+2. Run npm install.
 
-3.Run npm start.
+3. Run npm start.
 
 
 
