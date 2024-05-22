@@ -1,4 +1,3 @@
-[DEMO-LINK]
 
 Description:
 The "Phone Catalog" project is an e-commerce app for displaying and managing a list of devices from the server. Key features include:
